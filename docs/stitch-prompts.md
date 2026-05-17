@@ -288,8 +288,18 @@ Dedicated funnel for one audience. Tune copy and imagery to the audience without
 diluting the visual system.
 
 Segments: design-agencies, dev-agencies, marketing-agencies, ai-agencies,
-branding-agencies, small-agencies, scaling-agencies, freelancers,
-multi-project-entrepreneurs.
+branding-agencies, ecommerce-agencies, strategic-consultants, small-agencies,
+scaling-agencies, freelancers, multi-project-entrepreneurs.
+
+Segment-specific notes for the two newest pages:
+- ecommerce-agencies — Shopify/DTC build and growth shops. Lead with retainer +
+  performance-fee billing, multi-store client work, and project profitability
+  across recurring CRO/dev sprints. Typical tools to compare against: ClickUp,
+  Asana, Notion + a separate time tracker.
+- strategic-consultants — strategy and advisory consultancies (not delivery-heavy
+  production). Lead with high-value time being billed accurately, proposal-to-SOW
+  rigor, utilization of senior people, and retainer/value-based pricing. Typical
+  tools to compare against: Notion, spreadsheets, Harvest, generic PM tools.
 
 - HERO — segment-specific headline (e.g. "Operations software for design studios
   that bill for craft"). Subhead: 2 lines on what this segment needs that generic

@@ -59,6 +59,8 @@ Stitch prompts referenced below live in `docs/stitch-prompts.md`.
 │   ├── /for/marketing-agencies
 │   ├── /for/ai-agencies
 │   ├── /for/branding-agencies
+│   ├── /for/ecommerce-agencies
+│   ├── /for/strategic-consultants
 │   ├── /for/small-agencies
 │   ├── /for/scaling-agencies
 │   ├── /for/freelancers
@@ -142,6 +144,8 @@ All use the **Segment** Stitch prompt. CTA is segment-tagged so lead source is t
 | /for/marketing-agencies | Marketing agency owner | Get early access |
 | /for/ai-agencies | AI agency owner | Get early access |
 | /for/branding-agencies | Branding agency owner | Get early access |
+| /for/ecommerce-agencies | Ecommerce / Shopify agency owner | Get early access |
+| /for/strategic-consultants | Strategy consultant or consultancy | Get early access |
 | /for/small-agencies | 3–8 person agency | Calculate your savings (free tool) |
 | /for/scaling-agencies | 15–30 person agency | Apply for early access |
 | /for/freelancers | Multi-client freelancer | Try the rate calculator (free tool) |
