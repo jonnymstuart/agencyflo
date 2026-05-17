@@ -35,6 +35,9 @@ or SEO/GEO work. Key sections:
 - Authoritative tone, no hedging. Specific numbers and named scenarios.
 - Forbidden words: "game-changer", "revolutionize", "seamless", "unlock", "empower".
 - Ground claims in the 15-person studio's real experience.
+- Spelling: **US English** throughout — copy, URLs, slugs, schema. Clients are
+  mainly US/UK and US spelling carries better search volume (e.g. "productized",
+  "optimize", "color", "-ize" not "-ise").
 
 ## Marketing skills
 

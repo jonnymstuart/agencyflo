@@ -60,7 +60,8 @@ Stitch prompts referenced below live in `docs/stitch-prompts.md`.
 │   ├── /for/ai-agencies
 │   ├── /for/branding-agencies
 │   ├── /for/ecommerce-agencies
-│   ├── /for/strategic-consultants
+│   ├── /for/consultants
+│   ├── /for/productized-agencies
 │   ├── /for/small-agencies
 │   ├── /for/scaling-agencies
 │   ├── /for/freelancers
@@ -145,7 +146,8 @@ All use the **Segment** Stitch prompt. CTA is segment-tagged so lead source is t
 | /for/ai-agencies | AI agency owner | Get early access |
 | /for/branding-agencies | Branding agency owner | Get early access |
 | /for/ecommerce-agencies | Ecommerce / Shopify agency owner | Get early access |
-| /for/strategic-consultants | Strategy consultant or consultancy | Get early access |
+| /for/consultants | Strategy consultant or consultancy | Get early access |
+| /for/productized-agencies | Productized-service agency owner | Get early access |
 | /for/small-agencies | 3–8 person agency | Calculate your savings (free tool) |
 | /for/scaling-agencies | 15–30 person agency | Apply for early access |
 | /for/freelancers | Multi-client freelancer | Try the rate calculator (free tool) |
@@ -191,14 +193,14 @@ no dedicated Stitch prompt needed (use a simple legal-page layout).
 ## 10. Build order (from Playbook §26 — graduated launch, no bulk publishing)
 
 **Wave 1 — Days 1–14 (foundations + first pages)**
-Homepage · /pricing · /about · /manifesto · /vs/productive ·
-/vs/productive-alternatives · 2–3 free tools (profitability-calculator,
-tool-stack-audit, agency-margin-leak-finder)
+Homepage · /pricing · /about · /manifesto · **/vs hub** · **/tools hub** ·
+/vs/productive · /vs/productive-alternatives · 2–3 free tools
+(profitability-calculator, tool-stack-audit, agency-margin-leak-finder)
 
 **Wave 2 — Days 15–30 (comparison surge)**
-/vs/teamwork · /vs/scoro · /vs/notion · /vs/clickup · /vs/teamwork-alternatives ·
-/vs/notion-alternatives-agencies · /vs/productive-vs-teamwork-vs-agencyflo ·
-/closed-loop-system
+**/for hub** · /vs/teamwork · /vs/scoro · /vs/notion · /vs/clickup ·
+/vs/teamwork-alternatives · /vs/notion-alternatives-agencies ·
+/vs/productive-vs-teamwork-vs-agencyflo · /closed-loop-system
 
 **Wave 3 — Days 31–60 (pillars + segments)**
 /agency-operating-system · /agency-profitability · 6 cornerstone cluster articles ·
@@ -220,20 +222,21 @@ legal pages, then switch to refresh/compound cadence.
 
 Observations from reviewing the Playbook §28 sitemap against §8/§26:
 
-1. **No `/vs` hub landing page.** The playbook lists individual /vs/ pages but no
-   index. Add `/vs` as a comparison hub — it captures "agencyflo alternatives"-type
-   queries and gives every comparison page a SIDEWAYS link target.
-2. **No `/for` hub landing page.** Same gap. Add `/for` as a segment hub for internal
-   linking and "agency software for [type]" head queries.
-3. **No `/tools` hub landing page.** §29.2 homepage section 8 previews 3 tools, but
-   there is no `/tools` index. Add one — it concentrates link equity across 10 tools
-   and is itself a citable "free agency tools" listicle.
+1. **`/vs` hub landing page — ADOPTED.** The playbook lists individual /vs/ pages but
+   no index. `/vs` is now a comparison hub — it captures "agencyflo alternatives"-type
+   queries and gives every comparison page a SIDEWAYS link target. Scheduled in Wave 1.
+2. **`/for` hub landing page — ADOPTED.** Same gap. `/for` is now a segment hub for
+   internal linking and "agency software for [type]" head queries. Scheduled in Wave 2.
+3. **`/tools` hub landing page — ADOPTED.** §29.2 homepage section 8 previews 3 tools
+   but there was no `/tools` index. `/tools` now concentrates link equity across 10
+   tools and is itself a citable "free agency tools" listicle. Scheduled in Wave 1.
 4. **Pillar cluster articles not in the sitemap tables.** §8.2–8.4 name ~17 cluster
    article slugs under /blog/. They should be tracked in the content calendar; listed
    here only as `/blog/[slug]` for brevity.
 5. **/careers** is future — left out of the build waves intentionally.
-6. **Three hub pages above (`/vs`, `/for`, `/tools`)** are the only structural
-   additions recommended. Everything else in §28 is sound.
+6. **The three hub pages (`/vs`, `/for`, `/tools`)** are the only structural additions
+   to §28. They are now in the site map tree, the build waves (§10), and have a
+   shared Stitch prompt (`docs/stitch-prompts.md` §10). Everything else in §28 is sound.
 
-Recommendation: add the three hub pages to Wave 1–2. They are low-effort, high-leverage
-for internal linking and crawl depth (Playbook §9.3 — three-clicks-to-anything rule).
+These hub pages are low-effort, high-leverage for internal linking and crawl depth
+(Playbook §9.3 — three-clicks-to-anything rule).
